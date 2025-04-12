@@ -3,6 +3,9 @@
 
 A simple and stylish chatbot web interface built using **Flask**, **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to serve a chatbot that can return information (e.g., about Artificial Neural Networks) stored in a JSON file.
 
+![Screenshot 2025-04-13 005318](https://github.com/user-attachments/assets/bd0555ea-060f-4f31-8e72-21b6878c1d53)
+
+
 ---
 
 ## 📌 Features
